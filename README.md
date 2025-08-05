@@ -10,4 +10,4 @@ Tools Used: Excel, Python, SQL, IBM Cognos Analytics
 
 Download the full project PDF: DataAnalystPresentation.pdf
 
-Certification: https://www.coursera.org/account/accomplishments/professional-cert/your-certificate-id
+Certification: [https://www.coursera.org/account/accomplishments/professional-cert/your-certificate-id](https://www.coursera.org/user/4fbff6f743e2e004e3bfb5e06bebe601)
